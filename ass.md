@@ -1,4 +1,4 @@
 # Cloud Engineering Exercises
 
 > a
-(img/a.jpg)
+![a](./img/a.jpg)
