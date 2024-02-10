@@ -56,7 +56,7 @@
 
 ![alt](./img/l.jpg)
 
-![alt](./img/l-b.jpg)
+![alt](./img/l-bi.jpg)
 
 > Disable root login for ssh
 
