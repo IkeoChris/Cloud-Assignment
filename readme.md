@@ -4,56 +4,64 @@
 
 ![alt](./img/setup.jpg)
 
-> a
+> Change directory to tests directory using absolute pathname
 
 ![alt](./img/a.jpg)
 
-> b
+> using relative pathname
 
 ![alt](./img/b.jpg)
 
-> c
+> create fileA with content: Hello A
 
 ![alt](./img/c.jpg)
 
-> d
+> empty fileB
 
 ![alt](./img/d.jpg)
+
+> populate fileB
+
 ![alt](./img/d-b.jpg)
 
-> e
+> copy fileA into fileC
 
 ![alt](./img/e.jpg)
 
-> f
+> move fileB into fileD
 
 ![alt](./img/f.jpg)
 
-> g
+> create misc.tar
 
 ![alt](./img/g.jpg)
 
-> h
+> compress misc.tar
 
 ![alt](./img/h.jpg)
 
-> i
+> force new user to change password on login
 
 ![alt](./img/i.jpg)
 
-> j
+> lock new user password
 
 ![alt](./img/j.jpg)
 
-> k
+> create user with no login shell
 
 ![alt](./img/k.jpg)
 
-> l
+> disable password based auth for ssh
 
 ![alt](./img/l.jpg)
+
 ![alt](./img/l-b.jpg)
 
-> m
+> disable root login for ssh
 
 ![alt](./img/m.jpg)
+
+> finalize
+
+![alt](./img/final.jpg)
